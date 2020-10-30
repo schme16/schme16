@@ -6,6 +6,11 @@ I make interactive and immersive activities that promote learning and engagement
 I also make the reasonable popular **GitCDN**
   
 ✨Open source enthusiast, education evangalist ✨
+
+ - Pull Requests appreciated
+ - Issues welcome (well not welcome.. well.. you know what I mean!)
+
+
  
 Looking to contact me?
  - Personal: schme16@gmail.com
