@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Web/AR/VR/XR developer, working for the University of Southern Queensland (USQ ) in the Office for the Advancement of Learning & Teaching (OALT).
+I'm a Web developer, working for the University of Southern Queensland (UniSQ) in the Learning & Teaching Futures Division.
 
 I make interactive and immersive activities that promote learning and engagement for students, helping them get the most from their course, and helping examiners build more meaningful tertiary education experiences.
 
