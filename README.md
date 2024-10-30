@@ -15,7 +15,6 @@ I also make the reasonable popular **GitCDN**
 Looking to contact me?
  - Personal: schme16@gmail.com
  - Professional: Shane.Gadsby@unisq.edu.au
- - Twitter: @schme16
 
 Pronouns: He/Him
 
