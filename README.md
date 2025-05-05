@@ -1,14 +1,13 @@
 ### Hi there 👋
-I'm a Web developer, working for the University of Southern Queensland (UniSQ) in the Learning & Teaching Futures Division.
+I'm a Web Developer specialising in creating engaging resources and activitys for higher education, working for the University of Southern Queensland (UniSQ) in the Learning & Teaching Futures Division.
 
 I make interactive and immersive activities that promote learning and engagement for students, helping them get the most from their course, and helping examiners build more meaningful tertiary education experiences.
 
-I also make the reasonable popular **GitCDN**
   
 ✨Open source enthusiast, education evangalist ✨
 
  - Pull Requests appreciated
- - Issues welcome (well not welcome.. well.. you know what I mean!)
+ - Issues welcome (well not welcome.. but well.. you know what I mean!)
 
 
  
